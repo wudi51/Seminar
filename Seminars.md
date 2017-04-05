@@ -33,7 +33,7 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 ## 下载地址(Download)
 
-网盘链接，私密，链接公开，密码单独建群给，或者在医患信任群内给出。
+课件及录音请点击[这里](http://pan.baidu.com/s/1jI5cSp4)下载。密码：jdem。
 
 ## 参与人(Participants)
 
