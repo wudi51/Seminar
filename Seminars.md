@@ -96,3 +96,77 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 武迪 | 硕士生 | 社会心理学
 郭琴 | 硕士生 | 社会心理学
 以下实时更新中 | XX | XX
+
+
+# 2017年度第3期：主题(Subject) （4月12日）
+
+医患沟通与观点采择
+
+Doctor - patient communication and perspective-taking
+
+医患沟通与医患信任
+
+Doctor - patient communication and Doctor - patient trust
+
+## 主讲人(Speaker)
+
+### 上半场（Part A）
+
+赵晓繁  硕士生
+
+Zhao xiaofan
+
+### 下半场（Part B）
+
+郭琴  硕士生
+
+Guo  qin
+
+## 时间(Time)
+
+2017年4月12日（周三）下午1:30
+
+13:30, April 12(Wensday), 2017. 
+
+
+## 地址(Location)
+
+南开大学周恩来政府管理学院大楼，324教室。
+
+Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
+
+## 文献(Literature)
+
+上半场
+
+* 赵显;刘力;张笑笑;向振东;付洪岭. [观点采择：概念、操纵及其对群际关系的影响](http://118.145.16.229:81/Jweb_xlkxjz/CN/abstract/abstract2805.shtml)[J]. 心理科学进展, 2012, 20(12): 2079-2088.
+
+* Todd, A. R., Galinsky, A. D., & Bodenhausen, G. V. (2012).[Perspective Taking Undermines Stereotype Maintenance Processes: Evidence from Social Memory, Behavior Explanation, and Information Solicitation](http://www.academia.edu/12774006/Perspective_Taking_Undermines_Stereotype_Maintenance_Processes_Evidence_from_Social_Memory_Behavior_Explanation_and_Information_Solicitation). Social Cognition, 30(1), 94-108.
+
+* Blatt B, LeLacheur SF, Galinsky AD, Simmens SJ, Greenberg L (2010) [Does perspective-taking increase patient satisfaction in medical encounters?](http://journals.lww.com/academicmedicine/Fulltext/2010/09000/Does_Perspective_Taking_Increase_Patient.15.aspx) Academic Medicine 85: 1445–1452.
+
+* Galinsky, A. D., Rucker, D. D., & Magee, J. C. (2016). [Power and perspective-taking: A critical examination](http://www.sciencedirect.com/science/article/pii/S0022103115300226). Journal of Experimental Social Psychology,, 91-92.
+
+下半场
+
+* 阿瑟·克莱曼. (2010). 疾痛的故事: 苦难、治愈与人的境况. 上海: 上海译文出版社.
+
+* Joseph, D. T., Cheng, Y., Wong, B., Gong, N., Nie, J. B., et al. (2015). [Patient-physician mistrust and violence against physician mistrust and violence against physicians in Guangdong Province, China: a qualitative study](http://bmjopen.bmj.com/content/5/10/e008221). BMJ Open, 5(10), e008221.
+
+* Curtis, J. R., Back, A. L., Ford, D. W., et al. (2013).[Effect of Communication Skills Training for Residents and Nurse Practitioners on Quality of Communication With Patients With Serious Illness: a Randomized Trial](https://ohsu.pure.elsevier.com/en/publications/effect-of-communication-skills-training-for-residents-and-nurse-p). JAMA, 310(21), 2271-2281.
+
+## 下载地址(Download)
+
+在医患信任群内给出
+
+## 参与人(Participants)
+
+姓名 | 职务  | 专业
+-----|-------|----
+汪新建 | 教授 | 社会心理学
+吕小康 | 副教授 | 社会心理学
+张曜 | 博士生 | 社会心理学
+赵晓繁 | 硕士生 | 社会心理学
+武迪 | 硕士生 | 社会心理学
+郭琴 | 硕士生 | 社会心理学
+以下实时更新中 | XX | XX
