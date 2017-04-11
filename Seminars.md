@@ -139,21 +139,21 @@ Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 上半场
 
-* 赵显;刘力;张笑笑;向振东;付洪岭. [观点采择：概念、操纵及其对群际关系的影响](http://118.145.16.229:81/Jweb_xlkxjz/CN/abstract/abstract2805.shtml)[J]. 心理科学进展, 2012, 20(12): 2079-2088.
+* 赵显, 刘力, 张笑笑, 向振东, 付洪岭. (2012). [观点采择：概念、操纵及其对群际关系的影响](http://118.145.16.229:81/Jweb_xlkxjz/CN/abstract/abstract2805.shtml)[J]. *心理科学进展, 20*(12), 2079-2088.
 
-* Todd, A. R., Galinsky, A. D., & Bodenhausen, G. V. (2012).[Perspective Taking Undermines Stereotype Maintenance Processes: Evidence from Social Memory, Behavior Explanation, and Information Solicitation](http://www.academia.edu/12774006/Perspective_Taking_Undermines_Stereotype_Maintenance_Processes_Evidence_from_Social_Memory_Behavior_Explanation_and_Information_Solicitation). Social Cognition, 30(1), 94-108.
+* Todd, A. R., Galinsky, A. D., & Bodenhausen, G. V. (2012). [Perspective Taking Undermines Stereotype Maintenance Processes: Evidence from Social Memory, Behavior Explanation, and Information Solicitation](http://www.academia.edu/12774006/Perspective_Taking_Undermines_Stereotype_Maintenance_Processes_Evidence_from_Social_Memory_Behavior_Explanation_and_Information_Solicitation). *Social Cognition, 30*(1), 94-108.
 
-* Blatt B, LeLacheur SF, Galinsky AD, Simmens SJ, Greenberg L (2010) [Does perspective-taking increase patient satisfaction in medical encounters?](http://journals.lww.com/academicmedicine/Fulltext/2010/09000/Does_Perspective_Taking_Increase_Patient.15.aspx) Academic Medicine 85: 1445–1452.
+* Blatt B, LeLacheur SF, Galinsky AD, Simmens SJ, & Greenberg L. (2010). [Does perspective-taking increase patient satisfaction in medical encounters?](http://journals.lww.com/academicmedicine/Fulltext/2010/09000/Does_Perspective_Taking_Increase_Patient.15.aspx) *Academic Medicine, 85*(9), 1445–1452.
 
-* Galinsky, A. D., Rucker, D. D., & Magee, J. C. (2016). [Power and perspective-taking: A critical examination](http://www.sciencedirect.com/science/article/pii/S0022103115300226). Journal of Experimental Social Psychology,, 91-92.
+* Galinsky, A. D., Rucker, D. D., & Magee, J. C. (2016). [Power and perspective-taking: A critical examination](http://www.sciencedirect.com/science/article/pii/S0022103115300226). *Journal of Experimental Social Psychology, 67*, 91-92.
 
 下半场
 
-* 阿瑟·克莱曼. (2010). 疾痛的故事: 苦难、治愈与人的境况. 上海: 上海译文出版社.
+* 克莱曼. (2010). *疾痛的故事: 苦难、治愈与人的境况*. 上海: 上海译文出版社.
 
-* Joseph, D. T., Cheng, Y., Wong, B., Gong, N., Nie, J. B., et al. (2015). [Patient-physician mistrust and violence against physician  in Guangdong Province, China: a qualitative study](http://bmjopen.bmj.com/content/5/10/e008221). BMJ Open, 5(10), e008221.
+* Tucker, J. D., Cheng, Y., Wong, B., Gong, N., Nie, J., Zhu, W., ... & Kleinman, A. (2015). [Patient-physician mistrust and violence against physician  in Guangdong Province, China: a qualitative study](http://bmjopen.bmj.com/content/5/10/e008221). *BMJ Open, 5*(10), e008221.
 
-* Curtis, J. R., Back, A. L., Ford, D. W., et al. (2013).[Effect of Communication Skills Training for Residents and Nurse Practitioners on Quality of Communication With Patients With Serious Illness: a Randomized Trial](https://ohsu.pure.elsevier.com/en/publications/effect-of-communication-skills-training-for-residents-and-nurse-p). JAMA, 310(21), 2271-2281.
+* Curtis, J. R., Back, A. L., Ford, D. W., et al. (2013).[Effect of Communication Skills Training for Residents and Nurse Practitioners on Quality of Communication With Patients With Serious Illness: a Randomized Trial](https://ohsu.pure.elsevier.com/en/publications/effect-of-communication-skills-training-for-residents-and-nurse-p). *JAMA, 310*(21), 2271-2281.
 
 ## 下载地址(Download)
 
