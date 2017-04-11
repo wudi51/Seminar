@@ -151,7 +151,7 @@ Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 * 阿瑟·克莱曼. (2010). 疾痛的故事: 苦难、治愈与人的境况. 上海: 上海译文出版社.
 
-* Joseph, D. T., Cheng, Y., Wong, B., Gong, N., Nie, J. B., et al. (2015). [Patient-physician mistrust and violence against physician mistrust and violence against physicians in Guangdong Province, China: a qualitative study](http://bmjopen.bmj.com/content/5/10/e008221). BMJ Open, 5(10), e008221.
+* Joseph, D. T., Cheng, Y., Wong, B., Gong, N., Nie, J. B., et al. (2015). [Patient-physician mistrust and violence against physician  in Guangdong Province, China: a qualitative study](http://bmjopen.bmj.com/content/5/10/e008221). BMJ Open, 5(10), e008221.
 
 * Curtis, J. R., Back, A. L., Ford, D. W., et al. (2013).[Effect of Communication Skills Training for Residents and Nurse Practitioners on Quality of Communication With Patients With Serious Illness: a Randomized Trial](https://ohsu.pure.elsevier.com/en/publications/effect-of-communication-skills-training-for-residents-and-nurse-p). JAMA, 310(21), 2271-2281.
 
