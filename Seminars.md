@@ -124,16 +124,16 @@ Guo  qin
 
 ## 时间(Time)
 
-2017年4月12日（周三）下午1:30
+2017年4月12日（周三）下午14:00
 
-13:30, April 12(Wensday), 2017. 
+14:00, April 12(Wensday), 2017. 
 
 
 ## 地址(Location)
 
-南开大学周恩来政府管理学院大楼，324教室。
+南开大学周恩来政府管理学院大楼，129教室。
 
-Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
+Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 ## 文献(Literature)
 
