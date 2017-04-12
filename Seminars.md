@@ -139,7 +139,7 @@ Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 上半场
 
-* 赵显, 刘力, 张笑笑, 向振东, 付洪岭. (2012). [观点采择：概念、操纵及其对群际关系的影响](http://118.145.16.229:81/Jweb_xlkxjz/CN/abstract/abstract2805.shtml)[J]. *心理科学进展, 20*(12), 2079-2088.
+* 赵显, 刘力, 张笑笑, 向振东, 付洪岭. (2012). [观点采择：概念、操纵及其对群际关系的影响](http://118.145.16.229:81/Jweb_xlkxjz/CN/abstract/abstract2805.shtml). *心理科学进展, 20*(12), 2079-2088.
 
 * Todd, A. R., Galinsky, A. D., & Bodenhausen, G. V. (2012). [Perspective Taking Undermines Stereotype Maintenance Processes: Evidence from Social Memory, Behavior Explanation, and Information Solicitation](http://www.academia.edu/12774006/Perspective_Taking_Undermines_Stereotype_Maintenance_Processes_Evidence_from_Social_Memory_Behavior_Explanation_and_Information_Solicitation). *Social Cognition, 30*(1), 94-108.
 
