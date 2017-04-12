@@ -149,11 +149,11 @@ Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 下半场
 
-* 克莱曼. (2010). *疾痛的故事: 苦难、治愈与人的境况*. 上海: 上海译文出版社.
+* 克莱曼. (2010). *疾痛的故事: 苦难、治愈与人的境况* (方筱丽 译). 上海: 上海译文出版社.
 
-* Tucker, J. D., Cheng, Y., Wong, B., Gong, N., Nie, J., Zhu, W., ... & Kleinman, A. (2015). [Patient-physician mistrust and violence against physician  in Guangdong Province, China: a qualitative study](http://bmjopen.bmj.com/content/5/10/e008221). *BMJ Open, 5*(10), e008221.
+* Tucker, J. D., Cheng, Y., Wong, B., Gong, N., Nie, J., & Zhu, W., ... Kleinman, A. (2015). [Patient-physician mistrust and violence against physician  in Guangdong Province, China: a qualitative study](http://bmjopen.bmj.com/content/5/10/e008221). *BMJ Open, 5*(10), e008221.
 
-* Curtis, J. R., Back, A. L., Ford, D. W., et al. (2013).[Effect of Communication Skills Training for Residents and Nurse Practitioners on Quality of Communication With Patients With Serious Illness: a Randomized Trial](https://ohsu.pure.elsevier.com/en/publications/effect-of-communication-skills-training-for-residents-and-nurse-p). *JAMA, 310*(21), 2271-2281.
+* Curtis, J. R., Back, A. L., Ford, D. W., Downey, L., Shannon, S. E., & Doorenbos, A. Z., ... Engelberg, R. A. (2013). [Effect of Communication Skills Training for Residents and Nurse Practitioners on Quality of Communication With Patients With Serious Illness: A Randomized Trial](https://ohsu.pure.elsevier.com/en/publications/effect-of-communication-skills-training-for-residents-and-nurse-p). *JAMA, 310*(21), 2271-2281.
 
 ## 下载地址(Download)
 
