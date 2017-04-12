@@ -143,7 +143,7 @@ Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 * Todd, A. R., Galinsky, A. D., & Bodenhausen, G. V. (2012). [Perspective Taking Undermines Stereotype Maintenance Processes: Evidence from Social Memory, Behavior Explanation, and Information Solicitation](http://www.academia.edu/12774006/Perspective_Taking_Undermines_Stereotype_Maintenance_Processes_Evidence_from_Social_Memory_Behavior_Explanation_and_Information_Solicitation). *Social Cognition, 30*(1), 94-108.
 
-* Blatt B, LeLacheur SF, Galinsky AD, Simmens SJ, & Greenberg L. (2010). [Does perspective-taking increase patient satisfaction in medical encounters?](http://journals.lww.com/academicmedicine/Fulltext/2010/09000/Does_Perspective_Taking_Increase_Patient.15.aspx) *Academic Medicine, 85*(9), 1445–1452.
+* Blatt B, LeLacheur SF, Galinsky AD, Simmens SJ, & Greenberg L. (2010). [Does perspective-taking increase patient satisfaction in medical encounters?](http://journals.lww.com/academicmedicine/Fulltext/2010/09000/Does_Perspective_Taking_Increase_Patient.15.aspx) *Academic Medicine, 85*(9), 1445-1452.
 
 * Galinsky, A. D., Rucker, D. D., & Magee, J. C. (2016). [Power and perspective-taking: A critical examination](http://www.sciencedirect.com/science/article/pii/S0022103115300226). *Journal of Experimental Social Psychology, 67*, 91-92.
 
