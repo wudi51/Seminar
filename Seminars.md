@@ -195,7 +195,7 @@ Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
 以下实时更新中 | XX | XX
 
 
-# 2017年度第3期：主题(Subject) （4月12日）
+# 2017年度第4期：主题(Subject) （4月19日）
 
 精神障碍悖论及其解释
 
