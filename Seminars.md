@@ -194,3 +194,83 @@ Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
 付春野 | 硕士生 | 社会心理学
 以下实时更新中 | XX | XX
 
+
+# 2017年度第3期：主题(Subject) （4月12日）
+
+精神障碍悖论及其解释
+
+Paradox of Mental Disorders and Its Explanations
+
+常人理论视角下的医患关系建设
+
+Doctor-Patient Relationship Cultivation from the Perspective of Lay Theories
+
+## 主讲人(Speaker)
+
+### 上半场（Part A）
+
+郐一杰  博士生
+
+Kuai Yijie  PHD Candidate
+
+### 下半场（Part B）
+
+唐磊 博士生
+
+Lei TANG, PHD Candidate
+
+## 时间(Time)
+
+2017年4月19日（周三）下午14:00
+
+14:00, April 19(Wensday), 2017. 
+
+
+## 地址(Location)
+
+南开大学周恩来政府管理学院大楼，324教室。
+
+Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
+
+## 文献(Literature)
+
+上半场
+
+* 戴维﹒巴斯（2015）.*进化心理学.* 北京：商务印书馆.
+
+* Durisko, Z., Mulsant, B. H., McKenzie, K., & Andrews, P. W. (2016). [Using Evolutionary Theory to Guide Mental Health Research](http://journals.sagepub.com/doi/abs/10.1177/0706743716632517). *Canadian Journal Of Psychiatry-Revue Canadienne De Psychiatrie, 61*(3), 159-165.
+
+* R.M，Nesse.(2015). [Evolutionary Psychology and Mental Health.In D.M.Buss (Eds.)](http://www-personal.umich.edu/%7Enesse/Articles/Nesse-EvolMentHlth-Buss-HBEvPsy-2005.pdf) *The Handbook of Evolutionary Psychology: Vol. 2*(pp. 1007-1026). New Jersey：Wiley. 
+
+
+下半场
+
+* Harvey, A. G., Soehner, A., Lombrozo, T., Belanger, L., Rifkin, J., & Morin, C. M. (2013).[‘Folk theories’ about the causes of insomnia](http://link.springer.com/article/10.1007/s10608-013-9543-2) *Cognitive Therapy and Research, 37*(5), 1048-1057.
+
+* Bishop, F., & Yardley, L. (2010). [The development and initial validation of a new measure of lay definitions of health: the wellness beliefs scale](https://eprints.soton.ac.uk/73650/). *Psychology and Health, 25*(3), 271-287.
+
+* Donovan, J. (1991). [Patient education and the consultation: the importance of lay beliefs](http://europepmc.org/articles/PMC1031776). *Annals of the Rheumatic Diseases,50*(Suppl 3), 418-421.
+
+## 下载地址(Download)
+
+在医患信任群内给出
+
+## 参与人(Participants)
+
+姓名 | 职务  | 专业
+-----|-------|----
+汪新建 | 教授 | 社会心理学
+吕小康 | 副教授 | 社会心理学
+张曜 | 博士生 | 社会心理学
+张慧娟 | 博士生 | 社会心理学
+王丛 | 博士生 | 社会心理学
+王骥 | 博士生 | 社会心理学
+唐磊 | 博士生 | 社会心理学
+冯勇 | 博士生 | 社会心理学
+王乃磊  | 博士生 | 社会心理学
+郐一杰 | 博士生 | 社会心理学
+赵晓繁 | 硕士生 | 社会心理学
+武迪 | 硕士生 | 社会心理学
+郭琴 | 硕士生 | 社会心理学
+付春野 | 硕士生 | 社会心理学
+以下实时更新中 | XX | XX
