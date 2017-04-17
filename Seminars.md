@@ -123,7 +123,7 @@ Doctor - patient communication and perspective-taking
 
 Doctor - patient communication and Doctor - patient trust
 
-## 主讲人(Speaker)
+## 主讲人(Speakers)
 
 ### 上半场（Part A）
 
@@ -205,7 +205,7 @@ Paradox of Mental Disorders and Its Explanations
 
 Doctor-Patient Relationship Cultivation from the Perspective of Lay Theories
 
-## 主讲人(Speaker)
+## 主讲人(Speakers)
 
 ### 上半场（Part A）
 
@@ -236,20 +236,20 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 上半场
 
-* 巴斯（2015）.*进化心理学.* 北京：商务印书馆.
+* 巴斯. （2015). *进化心理学* (熊哲宏译). 北京：商务印书馆.
 
-* Durisko, Z., Mulsant, B. H., McKenzie, K., & Andrews, P. W. (2016). [Using evolutionary theory to guide mental health Research](http://journals.sagepub.com/doi/abs/10.1177/0706743716632517). *Canadian Journal Of Psychiatry-Revue Canadienne De Psychiatrie, 61*(3), 159—165.
+* Durisko, Z., Mulsant, B. H., McKenzie, K., & Andrews, P. W. (2016). [Using evolutionary theory to guide mental health Research](http://journals.sagepub.com/doi/abs/10.1177/0706743716632517). *Canadian Journal Of Psychiatry-Revue Canadienne De Psychiatrie, 61*(3), 159-165.
 
-* Nesse, R. M. (2015). [Evolutionary psychology and mental health. in D. M. Buss (Eds.)](http://www-personal.umich.edu/%7Enesse/Articles/Nesse-EvolMentHlth-Buss-HBEvPsy-2005.pdf). *The Handbook of Evolutionary Psychology: Vol. 2*(pp. 1007-1026). New Jersey: Wiley. 
+* Nesse, R. M. (2015). [Evolutionary psychology and mental health](http://www-personal.umich.edu/%7Enesse/Articles/Nesse-EvolMentHlth-Buss-HBEvPsy-2005.pdf). In D. M. Buss (Eds.) *The Handbook of Evolutionary Psychology: Vol. 2*(pp. 1007-1026). New Jersey: Wiley. 
 
 
 下半场
 
-* Harvey, A. G., Soehner, A., Lombrozo, T., Belanger, L., Rifkin, J., & Morin, C. M. (2013).[‘Folk theories’ about the causes of insomnia](http://link.springer.com/article/10.1007/s10608-013-9543-2). *Cognitive Therapy and Research, 37*(5), 1048—1057.
+* Harvey, A. G., Soehner, A., Lombrozo, T., Belanger, L., Rifkin, J., & Morin, C. M. (2013).[‘Folk theories’ about the causes of insomnia](http://link.springer.com/article/10.1007/s10608-013-9543-2). *Cognitive Therapy and Research, 37*(5), 1048-1057.
 
-* Bishop, F., & Yardley, L. (2010). [The development and initial validation of a new measure of lay definitions of health: the wellness beliefs scale](https://eprints.soton.ac.uk/73650/). *Psychology and Health, 25*(3), 271—287.
+* Bishop, F., & Yardley, L. (2010). [The development and initial validation of a new measure of lay definitions of health: the wellness beliefs scale](https://eprints.soton.ac.uk/73650/). *Psychology and Health, 25*(3), 271-287.
 
-* Donovan, J. (1991). [Patient education and the consultation: the importance of lay beliefs](http://europepmc.org/articles/PMC1031776). *Annals of the Rheumatic Diseases, 50*(Suppl 3), 418—421.
+* Donovan, J. (1991). [Patient education and the consultation: the importance of lay beliefs](http://europepmc.org/articles/PMC1031776). *Annals of the Rheumatic Diseases, 50*(Suppl 3), 418-421.
 
 ## 下载地址(Download)
 
